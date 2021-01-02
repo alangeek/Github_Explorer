@@ -29,6 +29,8 @@
       "prettier"
   ],
   "rules": {
+    "prettier/prettier": "error",
+    "react/jsx-one-expression-per-line": "off",
     "camelcase": "off",
     "no-use-before-define": "off",
     "react-hooks/rules-of-hooks": "error",
@@ -48,8 +50,7 @@
         "ts": "never",
         "tsx": "never"
       }
-    ],
-    "prettier/prettier": "error"
+    ]
   },
   "settings": {
     "import/resolver": {
