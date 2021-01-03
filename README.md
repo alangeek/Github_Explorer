@@ -40,7 +40,7 @@ This project connects to GitHub official API to get the data.
 
 ## 🚀 Online demo <a name = "deployment"></a>
 
-<a href="https://alanchristian.co/">
+<a href="https://hub-explorer.netlify.app/">
   <img src="https://img.shields.io/badge/demo-try%20online-blue?style=for-the-badge" />
 </a>
 
